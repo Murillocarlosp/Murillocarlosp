@@ -76,7 +76,7 @@
 
 ###
 
-![GitHub Snake Light](https://raw.githubusercontent.com/Murillocarlosp/Murillocarlosp/output/github-snake.svg) 
+![GitHub Snake Dark](https://raw.githubusercontent.com/Murillocarlosp/Murillocarlosp/output/github-snake-dark.svg)
 
 ###
 

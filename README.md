@@ -76,10 +76,6 @@
 
 ###
 
-![GitHub Snake Dark](https://raw.githubusercontent.com/Murillocarlosp/Murillocarlosp/output/github-snake-dark.svg)
-
-###
-
 <!--
 **Murillocarlosp/Murillocarlosp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

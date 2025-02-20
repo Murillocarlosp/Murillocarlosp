@@ -3,7 +3,7 @@ name: Generate Snake Animation
 on:
   schedule:
     - cron: "0 0 * * *"  # Executa diariamente à meia-noite UTC
-  workflow_dispatch:  # Permite executar manualmente
+  workflow_dispatch:  # Permite rodar manualmente pelo GitHub Actions
 
 jobs:
   build:
@@ -21,7 +21,7 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdf,#64a1f4,#4b91f1,#3c7dd9
 
-      - name: Fazer upload do artefato gerado
+      - name: Fazer upload dos artefatos gerados
         uses: actions/upload-artifact@v3
         with:
           name: snake-graph

@@ -38,7 +38,7 @@
 ###
 
 <div style="display: flex; align-items: center; justify-content: center;">
-  <div>
+  <div style="text-align: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
@@ -57,9 +57,10 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo" />
   </div>
-  
-  <img src="https://media.tenor.com/85UkXmAnoPwAAAAi/kurama-naruto-kurama.gif" height="150" style="margin-left: 20px;" />
+
+  <img src="https://media.tenor.com/85UkXmAnoPwAAAAi/kurama-naruto-kurama.gif" height="150" style="margin-left: 40px;" />
 </div>
+
 
 
 <br clear="both">

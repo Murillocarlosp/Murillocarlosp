@@ -38,28 +38,23 @@
 ###
 
 <div style="display: flex; align-items: center; justify-content: center;">
-  <div style="text-align: center;">
+  <!-- Div que mantém os ícones centralizados -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-    <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
-    <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
-    <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-    <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-    <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-    <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
-    <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo" />
-    <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo" />
   </div>
 
-  <img src="https://media.tenor.com/85UkXmAnoPwAAAAi/kurama-naruto-kurama.gif" height="150" style="margin-left: 40px;" />
+  <!-- GIF da Kurama ao lado dos ícones, separado por margem -->
+  <img src="https://media.tenor.com/85UkXmAnoPwAAAAi/kurama-naruto-kurama.gif" height="150" style="margin-left: 50px;" />
 </div>
+
 
 
 

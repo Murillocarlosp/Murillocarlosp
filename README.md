@@ -57,8 +57,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
 </div>
 
-###
-
 <br clear="both">
 
 <img align="right" height="150" src="https://media.tenor.com/85UkXmAnoPwAAAAi/kurama-naruto-kurama.gif" />

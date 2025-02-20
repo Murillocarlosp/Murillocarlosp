@@ -55,11 +55,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
+  
+  <img align="right" height="150" src="https://media.tenor.com/85UkXmAnoPwAAAAi/kurama-naruto-kurama.gif" />
 </div>
 
 <br clear="both">
-
-<img align="right" height="150" src="https://media.tenor.com/85UkXmAnoPwAAAAi/kurama-naruto-kurama.gif" />
 
 ###
 

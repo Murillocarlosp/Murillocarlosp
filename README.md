@@ -76,7 +76,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Murillocarlosp/Murillocarlosp/output/snake.svg" alt="Snake animation" />
+![GitHub Snake Light](https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/output/github-snake.svg)
+
 
 ###
 

@@ -47,8 +47,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo" />
   </div>
 
-  <!-- GIF da Kurama ao lado -->
-  <img src="https://media.tenor.com/85UkXmAnoPwAAAAi/kurama-naruto-kurama.gif" height="100" style="margin-left: 40px;" />
 
 </div>
 

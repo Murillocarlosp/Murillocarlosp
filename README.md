@@ -1,17 +1,10 @@
-## 👨‍💻 Programming student and aspiring full stack developer
+## 👋 Where to Find Me
 
-Hello! I'm **Murillo Carlos**, a passionate technology enthusiast currently in my **final semester of the Information Systems** program at **FICS College**.  
-I'm based in **Butantã, Brazil 🇧🇷**, and I'm always seeking to learn and grow as a developer.  
-My goal is to become a **Full Stack Developer**, capable of building complete and efficient digital solutions.
-
----
-
-### 🧠 Currently Learning
-- Advanced **JavaScript** and **TypeScript**
-- Frontend development with **React**
-- Backend with **Node.js** and **Express**
-- Databases: **MySQL** and **PostgreSQL**
-- API development and system integration
+📍 Based in **Butantã, São Paulo - Brazil**  
+🎓 Studying **Information Systems** at **FICS College** (final semester)  
+💼 Aspiring **Full Stack Developer**  
+✉️ Contact: **[murillocarlosp@gmail.com](mailto:murillocarlosp@gmail.com)**  
+💻 [LinkedIn](https://www.linkedin.com/in/murillo-carlosp/) • [GitHub](https://github.com/Murillocarlosp)
 
 ---
 
@@ -21,6 +14,14 @@ My goal is to become a **Full Stack Developer**, capable of building complete an
   <img src="https://github-readme-stats.vercel.app/api?username=Murillocarlosp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false" height="150" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Murillocarlosp&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
 </div>
+
+---
+
+## 👨‍💻 About Me
+
+Hey! I'm **Murillo Carlos**, a passionate tech enthusiast from Brazil 🇧🇷.  
+Currently finishing my **Information Systems** degree and constantly improving my coding skills.  
+My main goal is to become a **Full Stack Developer**, capable of creating complete and efficient digital solutions.
 
 ---
 
@@ -48,12 +49,4 @@ My goal is to become a **Full Stack Developer**, capable of building complete an
 
 ---
 
-### 🌍 Where to Find Me
-📍 Based in **Butantã, São Paulo - Brazil**  
-💼 Open to internships or full-time opportunities  
-✉️ Contact: **[murillocarlosp@gmail.com](mailto:murillocarlosp@gmail.com)**  
-💻 [LinkedIn](https://www.linkedin.com/in/murillo-carlosp/) • [GitHub](https://github.com/Murillocarlosp)
-
----
-
-⭐ *"Keep learning, keep building, and never stop growing."*
+⭐ *“Keep learning, keep building, and never stop growing.”*

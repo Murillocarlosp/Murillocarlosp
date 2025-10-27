@@ -19,9 +19,8 @@
 
 ## 👨‍💻 About Me
 
-Hey! I'm **Murillo Carlos**, a passionate tech enthusiast from Brazil 🇧🇷.  
-Currently finishing my **Information Systems** degree and constantly improving my coding skills.  
-My main goal is to become a **Full Stack Developer**, capable of creating complete and efficient digital solutions.
+Olá! Sou o Murillo Carlos, apaixonado por tecnologia e desenvolvimento de software.
+Estou constantemente aprimorando minhas habilidades de programação e tenho como objetivo me tornar um Desenvolvedor Full Stack, criando soluções digitais completas e eficientes
 
 ---
 

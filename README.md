@@ -34,6 +34,3 @@
   </div>
 </div>
 
-
-
-<br clear="both">

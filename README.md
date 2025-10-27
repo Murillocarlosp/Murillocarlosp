@@ -19,8 +19,8 @@
 
 ## 👨‍💻 About Me
 
-Olá! Sou o Murillo Carlos, apaixonado por tecnologia e desenvolvimento de software.
-Estou constantemente aprimorando minhas habilidades de programação e tenho como objetivo me tornar um Desenvolvedor Full Stack, criando soluções digitais completas e eficientes
+Hi! I'm Murillo Carlos, a software developer in training with a strong interest in building efficient and scalable digital solutions.
+I’m constantly improving my programming skills and aiming to become a Full Stack Developer, creating complete and professional applications.
 
 ---
 
@@ -47,5 +47,3 @@ Estou constantemente aprimorando minhas habilidades de programação e tenho com
 </div>
 
 ---
-
-⭐ *“Keep learning, keep building, and never stop growing.”*
